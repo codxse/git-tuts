@@ -21,7 +21,7 @@ cd TutorialGit
 git init
 git add README.md
 git commit -m "initial commit"
-git remote add origin https://github.com/maxsinus/TutorialGit.git
+git remote add origin git@github.com:maxsinus/TutorialGit.git
 git push -u origin master
 ```
 
@@ -30,7 +30,7 @@ git push -u origin master
 Jika sudah memiliki repositori, Anda bisa menambahkan repositori *remote* dengan cara berikut:
 ```
 cd nama_repo
-git remote add origin https://github.com/maxsinus/TutorialGit.git
+git remote add origin git@github.com:maxsinus/TutorialGit.git
 git push -u origin master
 ```
 ![Fork Me](https://raw.githubusercontent.com/maxsinus/TutorialGit/master/img/fork_me.png)
