@@ -4,12 +4,17 @@ Jadi, sebenarnya apa yang dimaksud dengan Git? Ini adalah bagian penting untuk d
 
 ## Global setup:
 
-*Global setup* dipakai setelah berhasil meng*install* Git untuk pertama kali. *Global setup* berguna untuk mengetahui siapa yang berkontribusi saat melakukan kolaborasi.
+*Global setup* dipakai setelah berhasil [meng*install*](http://git-scm.com/book/id/v1/Memulai-Git-Menginstall-Git) Git untuk pertama kali. *Global setup* berguna untuk mengetahui siapa yang berkontribusi saat melakukan kolaborasi.
 
 ```
 git config --global user.name "Your Name"
 git config --global user.email "youremail@email.domain"
 ```
+**Opsi Tambahan:**
+
++ [*Setup* kunci SSH](https://help.github.com/articles/generating-ssh-keys/#platform-windows) untuk OS Windows.
++ [*Setup* kunci SSH](https://help.github.com/articles/generating-ssh-keys/#platform-linux) untuk OS Linux.
++ [*Setup* kunci SSH](https://help.github.com/articles/generating-ssh-keys/#platform-mac) untuk OS Mac.
 
 ## Next step:
 
