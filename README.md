@@ -38,7 +38,6 @@ cd nama_repo
 git remote add origin git@github.com:maxsinus/TutorialGit.git
 git push -u origin master
 ```
-[![Fork Me](https://raw.githubusercontent.com/maxsinus/TutorialGit/master/img/fork_me.png)](https://github.com/maxsinus/TutorialGit)
 
 ## Exercise
 
@@ -55,3 +54,5 @@ Tautan-tautan berikut adalah tautan menuju web/halaman yang bisa Anda pakai seba
 + Latihan: [Git Branching Exercise](http://eecs.mines.edu/Courses/csci306/ASSIGN/Exercises/GitBranching.html) 
 + Video dan latihan: [GitHub Training](https://training.github.com/resources/videos/)
 + Video dan latihan: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
+
+[![Fork Me](https://raw.githubusercontent.com/maxsinus/TutorialGit/master/img/fork_me.png)](https://github.com/maxsinus/TutorialGit)
