@@ -33,4 +33,4 @@ cd nama_repo
 git remote add origin git@github.com/maxsinus/TutorialGit.git
 git push -u origin master
 ```
-->![Fork Me](https://raw.githubusercontent.com/maxsinus/TutorialGit/master/img/fork_me.png)<-
+![Fork Me](https://raw.githubusercontent.com/maxsinus/TutorialGit/master/img/fork_me.png)
