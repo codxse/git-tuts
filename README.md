@@ -8,7 +8,7 @@ Jadi, sebenarnya apa yang dimaksud dengan Git? Ini adalah bagian penting untuk d
 
 ```
 git config --global user.name "Your Name"
-git config --global user.email "youremail@email.domain"
+git config --global user.email "youremail@email.com"
 ```
 
 ## Next step:
