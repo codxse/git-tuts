@@ -27,7 +27,7 @@ git push -u origin master
 
 ## Existing Git Repo?
 
-Jika sudah memiliki repositori, Anda bisa menambahkan repositori *remote* dengan cara:
+Jika sudah memiliki repositori, Anda bisa menambahkan repositori *remote* dengan cara berikut:
 ```
 cd nama_repo
 git remote add origin https://github.com/maxsinus/TutorialGit.git
