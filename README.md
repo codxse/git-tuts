@@ -57,15 +57,18 @@ Tautan-tautan berikut adalah tautan menuju web/halaman yang bisa Anda pakai seba
 + Video dan latihan: [GitHub Training](https://training.github.com/resources/videos/)
 + Video dan latihan: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
-### Advanced Topic
+### Advanced Topics
 
 Topik ini diasumsikan bahwa Anda sudah mengerti *branch*, *checkout*, *commit*, *log*, *merge*, *push*, dan *pull*.
 
 + [Mengenal Git rebase](https://help.github.com/articles/about-git-rebase)
 + [Tutorial Git rebase](https://help.github.com/articles/using-git-rebase)
 + [Tutorial Git rebase](http://stackoverflow.com/questions/1186535/how-to-modify-a-specified-commit): merubah file commit tertentu
++ [Tutorial Git](http://stackoverflow.com/questions/7744049/git-how-to-rebase-to-a-specific-commit): *how to rebase to a specific commit?*
++ [Tutorial Git](http://stackoverflow.com/questions/14635672/git-rebase-a-single-commit): *rebase a single commit*
++ [Tutorial Git](https://www.atlassian.com/git/tutorials/rewriting-history/git-commit--amend): `git commit --amend`
 + [Git reset vs Git checkout](http://stackoverflow.com/questions/3639342/whats-the-difference-between-git-reset-and-git-checkout) 
 + [Tutorial Git reset dan Git checkout](http://stackoverflow.com/questions/4114095/revert-to-a-previous-git-commit)
 + [Simple Git stash](http://stackoverflow.com/questions/2944469/how-to-commit-my-current-changes-to-a-different-branch-in-git)
-+ [Complite Git stash](http://git-scm.com/book/en/v2/Git-Tools-Stashing)
++ [Complete Git stash](http://git-scm.com/book/en/v2/Git-Tools-Stashing)
 + [Opsi Git stash](http://git-scm.com/docs/git-stash)
