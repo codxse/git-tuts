@@ -8,7 +8,7 @@ Jadi, sebenarnya apa yang dimaksud dengan Git? Ini adalah bagian penting untuk d
 
 ```
 git config --global user.name "Your Name"
-git config --global user.email "youremail@email.domain"
+git config --global user.email "youremail@email.com"
 ```
 **Opsi Tambahan:**
 
@@ -56,3 +56,16 @@ Tautan-tautan berikut adalah tautan menuju web/halaman yang bisa Anda pakai seba
 + Latihan: [Git Branching Exercise](http://eecs.mines.edu/Courses/csci306/ASSIGN/Exercises/GitBranching.html) 
 + Video dan latihan: [GitHub Training](https://training.github.com/resources/videos/)
 + Video dan latihan: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
+
+### Advanced Topic
+
+Topik ini diasumsikan bahwa Anda sudah mengerti *branch*, *checkout*, *commit*, *log*, *merge*, *push*, dan *pull*.
+
++ [Mengenal Git rebase](https://help.github.com/articles/about-git-rebase)
++ [Tutorial Git rebase](https://help.github.com/articles/using-git-rebase)
++ [Tutorial Git rebase](http://stackoverflow.com/questions/1186535/how-to-modify-a-specified-commit): merubah file commit tertentu
++ [Git reset vs Git checkout](http://stackoverflow.com/questions/3639342/whats-the-difference-between-git-reset-and-git-checkout) 
++ [Tutorial Git reset dan Git checkout](http://stackoverflow.com/questions/4114095/revert-to-a-previous-git-commit)
++ [Simple Git stash](http://stackoverflow.com/questions/2944469/how-to-commit-my-current-changes-to-a-different-branch-in-git)
++ [Complite Git stash](http://git-scm.com/book/en/v2/Git-Tools-Stashing)
++ [Opsi Git stash](http://git-scm.com/docs/git-stash)
