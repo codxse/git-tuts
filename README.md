@@ -51,6 +51,8 @@ Tautan-tautan berikut adalah tautan menuju web/halaman yang bisa Anda pakai seba
 + [git-scm v1 bahasa Indonesia](http://git-scm.com/book/id/v1) (rekomendasi)
 + Video tutorial Git dari [Jason Semko](https://www.youtube.com/user/thejacenxpress/videos) (rekomendasi)
 + Video tutorial [Git & GitHub Guides](https://www.youtube.com/user/GitHubGuides/videos)
++ Latihan: [Belajar Git di KelasKita](https://kelaskita.com/kelaskita/kelas/mengenal-git/)
++ Latihan: [Belajar Git interaktif di KelasKita](https://kelaskita.com/kelaskita/kelas/git-interaktif/)
 + Latihan: [Git Branching Exercise](http://eecs.mines.edu/Courses/csci306/ASSIGN/Exercises/GitBranching.html) 
 + Video dan latihan: [GitHub Training](https://training.github.com/resources/videos/)
 + Video dan latihan: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
